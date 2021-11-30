@@ -1,2 +1,3 @@
 # maps-stl
-C++
+# inheritance introduction
+solution in C++
